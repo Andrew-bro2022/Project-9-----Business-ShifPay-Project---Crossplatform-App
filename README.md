@@ -31,19 +31,24 @@ The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum
   <img src="https://github.com/user-attachments/assets/2c449adc-68d2-43bf-845f-2951cb53f530" alt="IMG_7028" width="50%">
 
 
-
-
-
 4. Android APK:
 
   Please click the the link for downloading the APK file.
   - Employer: https://drive.google.com/file/d/1BSNwXP0UafIFOlCNiylQSZDXXJkqsM5W/view?usp=sharing
   - Employee: https://drive.google.com/file/d/170N7Kiw0XBO4m6fStPutI1fptliK8DLW/view?usp=sharing
 
+  Mobile:
+
+  <img src="https://github.com/user-attachments/assets/32ab921b-197b-4389-be68-ebb31cba0532" alt="IMG_7029" width="30%">
+
+  <img src="https://github.com/user-attachments/assets/6a9a3c6b-f4b8-476f-879e-64a4df68c218" alt="IMG_7030" width="30%">
+
+  <img src="https://github.com/user-attachments/assets/3ffe8a98-378d-425c-bc34-ff1cc86098df" alt="IMG_7031" width="30%">
 
 
 
-Quick review:
+
+**Quick review**
 
 
 Sign Up or Login:
