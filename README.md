@@ -7,8 +7,22 @@ This app provides point-of-sale (POS) solutions for enterprises through the impl
 
 The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum Rails(payment), GitLab, Figma, Apple TestFlight, and more.
 
-Website link: 
-- Employer link: https://devspemployer.foodicted.ca/auth/login 
+1. Website link: 
+
+- Employer link: https://devspemployer.foodicted.ca/auth/login
+- Employee link: https://devspemployee.foodicted.ca/auth/loginAndroid Apk:
+  
+2. Android APK:
+
+Please click the the link for downloading the APK file.
+
+3. IOS:
+
+Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.
+
+Quick review:
+
+
 Sign Up or Login:
 ![image](https://github.com/user-attachments/assets/7c4c399a-c976-48e3-8d80-a151704e98e2)
 
@@ -18,12 +32,8 @@ Manage Expenses:
 Manage the employees' duty shifts:
 ![image](https://github.com/user-attachments/assets/c7545cef-aff6-4ad9-aef2-81ed879aea14)
 
-- Employee link: https://devspemployee.foodicted.ca/auth/login
+
 Swap duty shift from employee side:
 ![image](https://github.com/user-attachments/assets/3de4a03e-9a46-459b-9321-9f7d1884546e)
 
-Android Apk:
-Please click the the link for downloading the APK file.
 
-IOS:
-Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.
