@@ -14,14 +14,16 @@ The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum
   
 2. Android APK:
 
-Please click the the link for downloading the APK file.
+  Please click the the link for downloading the APK file.
+  - Employer: https://drive.google.com/file/d/1BSNwXP0UafIFOlCNiylQSZDXXJkqsM5W/view?usp=sharing
+  - Employee: https://drive.google.com/file/d/170N7Kiw0XBO4m6fStPutI1fptliK8DLW/view?usp=sharing
 
 3. IOS:
 
-Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.
+  Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.
+
 
 Quick review:
-
 
 Sign Up or Login:
 ![image](https://github.com/user-attachments/assets/7c4c399a-c976-48e3-8d80-a151704e98e2)
