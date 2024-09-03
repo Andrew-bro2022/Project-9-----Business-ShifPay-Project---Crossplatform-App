@@ -10,16 +10,17 @@ The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum
 1. Website link: 
 
 - Employer link: https://devspemployer.foodicted.ca/auth/login
-- Employee link: https://devspemployee.foodicted.ca/auth/loginAndroid Apk:
+- Employee link: https://devspemployee.foodicted.ca/auth/loginAndroid 
   ![image](https://github.com/user-attachments/assets/7c4c399a-c976-48e3-8d80-a151704e98e2)
   
 2. IOS:
    
   Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.  
-  ![IMG_7021](https://github.com/user-attachments/assets/e399101b-9e51-4679-b5c7-1be5d11031b3)
-  ![IMG_7022](https://github.com/user-attachments/assets/b8574171-2bd1-43b8-804f-c1ee3a36ecf7)
-  ![IMG_7023](https://github.com/user-attachments/assets/5aed20e7-0aee-4ca6-a95c-9110fd7a0cea)
-  ![IMG_7027](https://github.com/user-attachments/assets/a3f07ed8-04bc-4f7a-9210-066aaffde47b)
+  <img src="https://github.com/user-attachments/assets/e399101b-9e51-4679-b5c7-1be5d11031b3" alt="IMG_7021" width="50%">
+  <img src="https://github.com/user-attachments/assets/b8574171-2bd1-43b8-804f-c1ee3a36ecf7" alt="IMG_7022" width="50%">
+  <img src="https://github.com/user-attachments/assets/5aed20e7-0aee-4ca6-a95c-9110fd7a0cea" alt="IMG_7023" width="50%">
+  <img src="https://github.com/user-attachments/assets/a3f07ed8-04bc-4f7a-9210-066aaffde47b" alt="IMG_7027" width="50%">
+
 
 
 4. Android APK:
