@@ -1,9 +1,11 @@
 # Project-9---ShifPay-Project---Crossplatform-App
+©Copyrights by CPOS Inc, Ottawa and The Appllied Research at Seneca Polytechnic, Toronto.
 
-![image](https://github.com/user-attachments/assets/14a698b1-ada0-428a-a873-95f23287e186)
+ShifPay app is a crossplatform project(Website, IOS &amp; Android for mobile &amp; tablet). IT contains the Employer App and Employee App. 
 
+This App offers Providing point-of-sale (POS) solutions to enterprise by an implementation of a responsive Web, IOS, Android to be used by end-user clients & business owners to manage daily wages.
 
-A crossplatform project(Website, IOS &amp; Android for mobile &amp; tablet)
+The Tech stack are Flutter, Dart, MongoDB, Firebase, GitLab, Figma, etc.
 
 Website link: 
 Employer link: https://devspemployer.foodicted.ca/auth/login 
