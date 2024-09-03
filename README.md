@@ -17,7 +17,7 @@ The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum
    
   Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.  
 
-  **Iphoe:**
+  **Iphone:**
 
   <img src="https://github.com/user-attachments/assets/e399101b-9e51-4679-b5c7-1be5d11031b3" alt="IMG_7021" width="30%">
   <img src="https://github.com/user-attachments/assets/4ac6a577-ec24-4f71-bab8-bb103a8d5590" alt="IMG_7019" width="30%">
