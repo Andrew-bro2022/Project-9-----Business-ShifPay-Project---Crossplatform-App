@@ -11,14 +11,6 @@ The technology stack includes Flutter, Dart, Node.js, RestFul API, MongoDB, Fire
   <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="60%">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/382edbdd-7926-4a2f-bfd0-1627cc092504" alt="IMG_7021" width="60%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7aa2b953-c372-4368-a932-9e85bc76d3ab" alt="IMG_7021" width="60%">
-</div>
-
 
 1. **Website link:**
 
@@ -32,6 +24,14 @@ The technology stack includes Flutter, Dart, Node.js, RestFul API, MongoDB, Fire
   Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.  
 
   **Iphone:**
+
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/382edbdd-7926-4a2f-bfd0-1627cc092504" alt="IMG_7021" width="60%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7aa2b953-c372-4368-a932-9e85bc76d3ab" alt="IMG_7021" width="60%">
+</div>
 
   <img src="https://github.com/user-attachments/assets/e399101b-9e51-4679-b5c7-1be5d11031b3" alt="IMG_7021" width="30%">
   <img src="https://github.com/user-attachments/assets/4ac6a577-ec24-4f71-bab8-bb103a8d5590" alt="IMG_7019" width="30%">
