@@ -7,15 +7,16 @@ This app provides point-of-sale (POS) solutions for enterprises through the impl
 
 The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum Rails(payment), GitLab, Figma, Apple TestFlight, and more.
 
- <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="60%">
+ <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="80%">
 
 
 1. **Website link:**
 
 - Employer link: https://devspemployer.foodicted.ca/auth/login
 - Employee link: https://devspemployee.foodicted.ca/auth/loginAndroid 
-  ![image](https://github.com/user-attachments/assets/7c4c399a-c976-48e3-8d80-a151704e98e2)
-  
+
+   <img src="https://github.com/user-attachments/assets/7c4c399a-c976-48e3-8d80-a151704e98e2" alt="IMG_7021" width="80%">
+
 2. **IOS:**
    
   Please send me your icloud email so I can send you the testing invitation email by Apple TestFlight.  
