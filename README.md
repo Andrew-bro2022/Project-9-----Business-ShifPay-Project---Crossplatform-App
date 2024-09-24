@@ -5,7 +5,7 @@ ShifPay is a cross-platform application available on the web, iOS, and Android f
 
 This app provides point-of-sale (POS) solutions for enterprises through the implementation of a responsive web interface and mobile apps for iOS and Android. It allows business owners and end-user clients to manage daily wages and employee shift schedules.
 
-The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum Rails(payment), GitLab, Figma, Apple TestFlight, and more.
+The technology stack includes Flutter, Dart, Node.js, RestFul API, MongoDB, Firebase, Zum Rails(payment), GitLab, Figma, Apple TestFlight, and more.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="60%">
