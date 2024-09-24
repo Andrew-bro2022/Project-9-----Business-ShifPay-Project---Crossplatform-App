@@ -7,6 +7,9 @@ This app provides point-of-sale (POS) solutions for enterprises through the impl
 
 The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum Rails(payment), GitLab, Figma, Apple TestFlight, and more.
 
+ <img src="[https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="20%">
+
+
 1. **Website link:**
 
 - Employer link: https://devspemployer.foodicted.ca/auth/login
