@@ -13,17 +13,18 @@ The technology stack includes Flutter, Dart, RestFul API, MongoDB, Firebase, Zum
 
  <img src="https://github.com/user-attachments/assets/7aa2b953-c372-4368-a932-9e85bc76d3ab" alt="IMG_7021" width="60%">
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="60%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/34224110-9843-41ab-acb7-86878192bc8f" alt="IMG_7021" width="60%">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/382edbdd-7926-4a2f-bfd0-1627cc092504" alt="IMG_7021" width="60%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/382edbdd-7926-4a2f-bfd0-1627cc092504" alt="IMG_7021" width="60%">
 </div>
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7aa2b953-c372-4368-a932-9e85bc76d3ab" alt="IMG_7021" width="60%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7aa2b953-c372-4368-a932-9e85bc76d3ab" alt="IMG_7021" width="60%">
 </div>
+
 
 1. **Website link:**
 
