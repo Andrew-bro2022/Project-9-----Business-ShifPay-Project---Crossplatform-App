@@ -1,5 +1,5 @@
 # Project-9---ShifPay-Project---Crossplatform-App
-© Copyright CPOS Inc., Ottawa, and Applied Research at Seneca Polytechnic, Toronto.
+© Copyright CPOS Inc., Ottawa, and Applied Research at Seneca Polytechnic, Toronto. Link: https://www.senecapolytechnic.ca/news-and-events/seneca-news/research-aims-to-bring-pay-on-demand-to-restaurant-employees.html
 
 ShifPay is a cross-platform application available on the web, iOS, and Android for both mobile and tablet devices. It includes an Employer App and an Employee App.
 
